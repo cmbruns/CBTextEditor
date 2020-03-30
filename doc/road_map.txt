@@ -1,0 +1,7 @@
+  * Load/save files
+  * Unit tests
+  * Recent files as separate project
+  * Incremental find
+  * Edit text
+  * Undo/redo
+  * Syntax highlighting
